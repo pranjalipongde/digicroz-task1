@@ -64,8 +64,6 @@ const Services = () => {
           ))}
         </div>
       </section>
-
-      <hr className="mb-10" />
     </>
   );
 };

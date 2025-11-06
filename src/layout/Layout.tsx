@@ -10,6 +10,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
       <Topbar />
       <Navbar />
       <main>{children}</main>
+      <div className="w-full h-px bg-gray-400 opacity-50 mb-10"></div>
       <FooterCTA />
       <Footer />
     </>

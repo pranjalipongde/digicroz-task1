@@ -16,7 +16,7 @@ const Navbar = () => {
     <nav className="w-full bg-white shadow-sm sticky top-0 z-50">
       <div className="max-w-7xl mx-auto flex justify-between items-center py-4 px-4">
         <div className="flex items-center gap-2">
-          <img src={logo} alt="Digicroz logo" className="h-10 w-auto" />
+          <img src={logo} alt="Digicroz logo" className="h-12 w-auto" />
         </div>
 
         <div className="hidden md:flex gap-8 text-gray-900 font-medium">
